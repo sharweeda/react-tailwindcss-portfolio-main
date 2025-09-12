@@ -1,6 +1,7 @@
 {
 	"name": "react-tailwindcss-portfolio",
 	"version": "0.1.0",
+	"homepage": "https://sharweeda.github.io/myPortfolio",
 	"private": true,
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
@@ -20,6 +21,8 @@
 	},
 	"scripts": {
 		"start": "react-scripts --openssl-legacy-provider start",
+		 "predeploy": "npm run build",
+		"deploy": "gh-pages -d dist",
 		"build": "yarn run react-scripts build",
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",

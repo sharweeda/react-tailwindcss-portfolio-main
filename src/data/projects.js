@@ -1,15 +1,15 @@
 // Import images
-import WebImage1 from '../images/web-project-1.jpg';
-import WebImage2 from '../images/web-project-2.jpg';
-import MobileImage1 from '../images/mobile-project-1.jpg';
-import MobileImage2 from '../images/mobile-project-2.jpg';
-import UIImage1 from '../images/ui-project-1.jpg';
-import UIImage2 from '../images/ui-project-2.jpg';
+import WebImage1 from '../images/Basket.png';
+import WebImage2 from '../images/Home.png';
+import MobileImage1 from '../images/landing-page.png';
+import MobileImage2 from '../images/home-note.png';
+import UIImage1 from '../images/Wheather.png';
+import UIImage2 from '../images/Movies.png';
 
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
+		title: 'Ecommerce Platform',
 		category: 'Web Application',
 		img: WebImage2,
 		ProjectHeader: {
@@ -17,35 +17,47 @@ export const projectsData = [
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
+		 projectLink: 'https://sharweeda.github.io/e-commerce/#/Login',   
+    	githubLink: 'https://github.com/sharweeda/e-commerce',
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
+		title: 'Note Taking App',
+		category: 'Web Application',
 		img: MobileImage2,
+		 projectLink: 'https://sharweeda.github.io/Note-App/#/login',   
+    	githubLink: 'https://github.com/sharweeda/Note-App/tree/main',
 	},
 	{
 		id: 3,
-		title: 'Project Management UI',
-		category: 'UI/UX Design',
+		title: 'Wheather App',
+		category: 'Web Application',
 		img: UIImage1,
+		 projectLink: 'https://weathersharweeda.netlify.app/',   
+    	githubLink: 'https://github.com/sharweeda/Weather-App',
 	},
 	{
 		id: 4,
-		title: 'Cloud Storage Platform',
+		title: 'Movies',
 		category: 'UI/UX Design',
 		img: UIImage2,
+		 projectLink: 'https://my-movi.netlify.app/',  
+   		 githubLink: 'https://github.com/sharweeda/Movies_App-master',
 	},
 	{
 		id: 5,
-		title: 'React Social App',
-		category: 'Mobile Application',
+		title: 'Landing Page',
+		category: 'UI/UX Design',
 		img: MobileImage1,
+		 projectLink: 'https://dainty-lily-ec32af.netlify.app/',   
+    	githubLink: 'https://github.com/sharweeda/Landing-Page',
 	},
 	{
 		id: 6,
-		title: 'Apple Design System',
+		title: 'Basket Platform',
 		category: 'Web Application',
 		img: WebImage1,
+		 projectLink: 'https://basket-ecommerce.netlify.app/',   
+    	githubLink: 'https://github.com/shyl1/e-commerce',
 	},
 ];

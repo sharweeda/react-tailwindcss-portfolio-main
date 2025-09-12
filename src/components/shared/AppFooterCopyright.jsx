@@ -8,11 +8,11 @@ function AppFooterCopyright() {
 					target="__blank"
 					className="hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 ml-1 duration-500"
 				>
-					React & Tailwind CSS Portfolio
+					Mahmoud SharWeeDa
 				</a>
 				.
 				<span className="text-secondary-dark dark:text-secondary-light font-medium  hover:underline hover:text-indigo-600 dark:hover:text-indigo-300 ml-1 duration-500">
-					SharWeeDa
+					All rights reserved.
 				</span>
 			</div>
 		</div>

@@ -100,6 +100,8 @@ const ProjectsGrid = () => {
 								title={project.title}
 								category={project.category}
 								image={project.img}
+								 projectLink={project.projectLink}   // 👈
+  								githubLink={project.githubLink}
 								key={project.id}
 							/>
 					  ))
@@ -109,6 +111,8 @@ const ProjectsGrid = () => {
 								title={project.title}
 								category={project.category}
 								image={project.img}
+								 projectLink={project.projectLink}   // 👈
+ 								 githubLink={project.githubLink}
 								key={project.id}
 							/>
 					  ))
@@ -117,6 +121,8 @@ const ProjectsGrid = () => {
 								title={project.title}
 								category={project.category}
 								image={project.img}
+								 projectLink={project.projectLink}   // 👈
+  								githubLink={project.githubLink}
 								key={project.id}
 							/>
 					  ))}

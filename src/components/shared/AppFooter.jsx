@@ -1,19 +1,12 @@
 import {
 	FiGithub,
-	FiTwitter,
 	FiLinkedin,
-	FiGlobe,
-	FiYoutube,
 	FiFacebook,
 } from 'react-icons/fi';
 import AppFooterCopyright from './AppFooterCopyright';
 
 const socialLinks = [
-	{
-		id: 1,
-		icon: <FiGlobe />,
-		url: 'https://www.stoman.me/',
-	},
+	
 	{
 		id: 2,
 		icon: <FiGithub />,
