@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-tailwindcss-portfolio-main/static/css/main.cb90c96a.chunk.css",
-    "main.js": "/react-tailwindcss-portfolio-main/static/js/main.b211bc3a.chunk.js",
-    "main.js.map": "/react-tailwindcss-portfolio-main/static/js/main.b211bc3a.chunk.js.map",
+    "main.js": "/react-tailwindcss-portfolio-main/static/js/main.1dcab8f0.chunk.js",
+    "main.js.map": "/react-tailwindcss-portfolio-main/static/js/main.1dcab8f0.chunk.js.map",
     "runtime-main.js": "/react-tailwindcss-portfolio-main/static/js/runtime-main.b3bf5e90.js",
     "runtime-main.js.map": "/react-tailwindcss-portfolio-main/static/js/runtime-main.b3bf5e90.js.map",
     "static/js/2.06c9700d.chunk.js": "/react-tailwindcss-portfolio-main/static/js/2.06c9700d.chunk.js",
@@ -33,14 +33,12 @@
     "static/media/developer.ef097afb.svg": "/react-tailwindcss-portfolio-main/static/media/developer.ef097afb.svg",
     "static/media/home-note.3924fcd6.png": "/react-tailwindcss-portfolio-main/static/media/home-note.3924fcd6.png",
     "static/media/landing-page.25761d3c.png": "/react-tailwindcss-portfolio-main/static/media/landing-page.25761d3c.png",
-    "static/media/logo-dark.da150d1d.svg": "/react-tailwindcss-portfolio-main/static/media/logo-dark.da150d1d.svg",
-    "static/media/logo-light.27ea19a5.svg": "/react-tailwindcss-portfolio-main/static/media/logo-light.27ea19a5.svg",
     "static/media/profile.c583b625.jpg": "/react-tailwindcss-portfolio-main/static/media/profile.c583b625.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b3bf5e90.js",
     "static/js/2.06c9700d.chunk.js",
     "static/css/main.cb90c96a.chunk.css",
-    "static/js/main.b211bc3a.chunk.js"
+    "static/js/main.1dcab8f0.chunk.js"
   ]
 }
